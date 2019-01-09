@@ -8,7 +8,7 @@ export class TodoForm extends React.Component{
     }
 
     /**
-     * task oluşturmak için controller method
+     new changes
      * controller method for creating task
      * @param e
      */
