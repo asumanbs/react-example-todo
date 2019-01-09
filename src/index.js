@@ -12,8 +12,8 @@ class TodoApp extends React.Component {
     constructor() {
         super();
         let myTasks = [
-            {text: 'Kitap oku', status: 'passive'},
-            {text: 'Interstellar izle', status: 'active'},
+            {text: 'Dans et', status: 'passive'},
+            {text: 'Detachment izle', status: 'active'},
             {text: 'Projeyi github\'da paylaş', status: 'passive'}
         ];
         let localTasks = localStorage.getItem('tasks');
